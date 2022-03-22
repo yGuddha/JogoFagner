@@ -456,7 +456,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   accelerationSpeed: 40
   maxMovementSpeed: 10
+  jumpForce: 100
   groundLinearDrag: 12
+  airLinearDrag: 0
 --- !u!114 &934782297
 MonoBehaviour:
   m_ObjectHideFlags: 0
